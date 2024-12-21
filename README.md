@@ -11,6 +11,9 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
+<br>
+<br>
+
 <picture> <img align="right" src="https://camo.githubusercontent.com/06fa7a9aa91a074222a5be8b70cf36b49f5c5021c518bac26263809d7ef4883c/68747470733a2f2f7374617274636f64696e672e636f2e696e2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f636f64696e672d666f722d6b6964732e676966" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-enhancing%20my%20skills-dodgerblue" />
@@ -23,6 +26,8 @@
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her 
 
+<br>
+<br>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
