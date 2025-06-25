@@ -1,8 +1,5 @@
 ﻿
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=25&color=042D5E&width=450&height=50&lines=Hi+%2C+I'm+Behrokh+👋" />
-  </a>
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&size=25&color=042D5E&width=450&height=50&lines=A.k.a+Syntax+Of+Grace" alt="Typing SVG" />
