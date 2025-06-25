@@ -21,9 +21,8 @@
 </p>
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning Advanced Python & Java
+- 🌱 learning Advanced Python
 - 👯 I’m looking to collaborate on your open source projects
-- 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her 
 
 <br>
